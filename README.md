@@ -18,3 +18,5 @@ In this project, you are going to simulate a sales and operations planning using
 
 - If the sales quantity is larger than the stock level of the previous month, the production quantity is this difference
 
+
+ 
